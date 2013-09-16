@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SOAPService", "SOAPService\SOAPService.csproj", "{7695F1EA-B8EA-4099-B49A-8A028A445CAE}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Librerias", "Librerias", "{3D39E176-3501-44EE-8776-05152689E686}"
+	ProjectSection(SolutionItems) = preProject
+		..\..\..\..\..\..\Librerias\Iesi.Collections.dll = ..\..\..\..\..\..\Librerias\Iesi.Collections.dll
+		..\..\..\..\..\..\Librerias\NHibernate.dll = ..\..\..\..\..\..\Librerias\NHibernate.dll
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7695F1EA-B8EA-4099-B49A-8A028A445CAE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7695F1EA-B8EA-4099-B49A-8A028A445CAE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7695F1EA-B8EA-4099-B49A-8A028A445CAE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7695F1EA-B8EA-4099-B49A-8A028A445CAE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
