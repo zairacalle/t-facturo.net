@@ -9,7 +9,7 @@ namespace SOAPService.Persistencia
     {
         public static string ObtenerCadena (){
             //return "Data Source=.; Initial Catalog=BD_ASESORES; User ID=sa;PWD=sa";
-            return "Data Source=40ad82db-cdfc-4ac3-8ffd-a23b0118d5ca.sqlserver.sequelizer.com; Initial Catalog=db40ad82dbcdfc4ac38ffda23b0118d5ca; User ID=ivhdmithrqectars;PWD=qy7RcQhmPE3jgDDEDeeXbXb6t4hMJRq3tMbPkRwKSfz8ALjmiLJR5ZQAxbwhGBK7";
+            return "a2b93e92-86b4-4ce8-8ccb-a23e002eafa4.sqlserver.sequelizer.com; Initial Catalog=dba2b93e9286b44ce88ccba23e002eafa4; User ID=abguotcjbqoberhp;PWD=C26ZfQWGKDrJUgjfA76KpM5dnVweeWEu2MwodAStpPkdBCH6DCHkRNuY53LrtRCV";
             }
     }
 }

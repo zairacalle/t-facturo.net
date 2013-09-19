@@ -1,0 +1,12 @@
+c:\users\felix\documents\visual studio 2010\Projects\SOAPService\SOAPService\bin\SOAPService.dll
+c:\users\felix\documents\visual studio 2010\Projects\SOAPService\SOAPService\bin\SOAPService.pdb
+c:\users\felix\documents\visual studio 2010\Projects\SOAPService\SOAPService\obj\Debug\ResolveAssemblyReference.cache
+c:\users\felix\documents\visual studio 2010\Projects\SOAPService\SOAPService\obj\Debug\SOAPService.dll
+c:\users\felix\documents\visual studio 2010\Projects\SOAPService\SOAPService\obj\Debug\SOAPService.pdb
+C:\Users\Felix\Documents\Visual Studio 2010\Projects\SOAPService\SOAPService\bin\Iesi.Collections.dll
+C:\Users\Felix\Documents\Visual Studio 2010\Projects\SOAPService\SOAPService\bin\NHibernate.dll
+C:\Users\Zaira Calle\Documents\Sist. Distribuidos\Practicabonus\SOAPService\SOAPService\bin\SOAPService.dll
+C:\Users\Zaira Calle\Documents\Sist. Distribuidos\Practicabonus\SOAPService\SOAPService\bin\SOAPService.pdb
+C:\Users\Zaira Calle\Documents\Sist. Distribuidos\Practicabonus\SOAPService\SOAPService\obj\Debug\SOAPService.csprojResolveAssemblyReference.cache
+C:\Users\Zaira Calle\Documents\Sist. Distribuidos\Practicabonus\SOAPService\SOAPService\obj\Debug\SOAPService.dll
+C:\Users\Zaira Calle\Documents\Sist. Distribuidos\Practicabonus\SOAPService\SOAPService\obj\Debug\SOAPService.pdb
